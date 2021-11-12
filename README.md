@@ -12,5 +12,5 @@ Esse projeto tem como objetivo mostrar os primeiros passos de integração entre
 ## Smart contract
 Usamos um contrato bem simples para salvar e ler uma mensagem
 
-##html
+## HTML
 Criamos uma página para gravar e ler essa mensagem utilizando web3.js, utilizamos o próprio metamask para se conectar ao contrato.
