@@ -2,7 +2,7 @@
 Esse projeto tem como objetivo mostrar os primeiros passos de integração entre web3.js e blockchain.
 
 
-##O que foi utilizado
+## O que foi utilizado
 - html
 - javascript com web3.js
 - Metamask para servir de conexão com a rede do Ethereum Blockchain
